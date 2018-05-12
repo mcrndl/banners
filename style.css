@@ -165,17 +165,17 @@ h1{
     margin-left: 9px;
     line-height: 34px;
     font-weight: bold;
-    padding-top: 10px;
+    padding-top: 0px;
 }
 .ba h2{
     color: white;
-    font-size: 21px;
-    font-weight: 700;
-    margin-left: -1px;
-    line-height: 18px;
-    font-weight: bold;
-    padding-left: 13px;
-    padding-top: 0px;
+    margin: -30px 0 0 10px; 
+}
+.ba h3{
+    color: white;
+    border: 1px #A5DAE3 solid;
+    width: 90px;
+    padding: 4px, 4px, 4px, 10px;
 }
 .ba .img1{
     width: 50px;
@@ -213,10 +213,11 @@ h1{
     box-sizing: border-box;
 }
 .chico h1{
-    color: white;
+   color: white;
     font-size: 20px;
     line-height: 11px;
     margin-left: 30px;
+    margin-top: 12px;
     
 } 
 .chico .img1{
@@ -238,10 +239,10 @@ h1{
 }
 .chic h1{
     color: white;
-    font-size: 15px;
-    line-height: 15px;
+    font-size: 20px;
+    line-height: 18px;
     margin-left: 30px;
-    
+    margin-top: 0px;
 } 
 .chic .img1{
     width: 50px;
@@ -275,8 +276,9 @@ h1{
 .chi h1{
     color: white;
     font-size: 20px;
-    line-height: 11px;
+    line-height: 16px;
     margin-left: 30px;
+    margin-top: 0px;
     
 } 
 .chi .img1{
@@ -301,18 +303,12 @@ h1{
     padding-top: 9px;
     box-sizing: border-box;
 }
-.chi h1{
+.chi .img1{
     color: white;
     font-size: 20px;
-    line-height: 11px;
+    line-height: 16px;
     margin-left: 30px;
-    
-} 
-.chi .img1{
-    width: 50px;
-    position: absolute;
-    right: 246px;
-    top: 7px;
+    margin-top : 0px;
 }      
 .chi .img3{
     width: 50px;
