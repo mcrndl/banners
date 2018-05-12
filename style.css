@@ -1,0 +1,356 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.banner {
+margin: 10px 0;
+width:300px;
+height: 250px;
+background-color: #053C63;
+position: relative;
+padding-left: 30px;
+padding-top: 9px;
+box-sizing: border-box;
+}
+img{
+    width: 50px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 50px;
+    line-height: 40px;
+}
+
+.banne{
+    margin: 10px 0;
+    width:300px;
+    height: 250px;
+    background-color:#A5DAE3;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.banne h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 35px;
+    line-height: 30px; 
+    margin: 20px;
+}
+.banne .img1{
+    width: 50px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.banne .img2{
+    position: absolute;
+    width: 70px;
+    right: 91px;
+    top: 122px;
+}
+.banne .img3{
+    position: absolute;
+    width: 80px;
+    right: 175px;
+    top: 133px;
+}
+
+.bann{
+    margin: 10px 0;
+    width:300px;
+    height: 250px;
+    background-color:#A5DAE3;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;  
+}
+.bann .h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 40px;
+    line-height: 35px;
+}
+.bann .img1{
+    width: 50px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+
+}
+.bann .img2{
+    position: absolute;
+    width: 70px;
+    right: 221px;
+    top: 159px;
+}
+.bann .img4{
+    position: absolute;
+    width: 157px;
+    right: 17px;
+    top: 159px; 
+}
+
+.bannn{
+    margin: 10px 0;
+    width:300px;
+    height: 250px;
+    background-color:#A5DAE3;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;  
+}
+.bannn .h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 40px;
+    line-height: 35px;
+}
+.bannn .img1{
+    width: 50px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+
+}
+.bannn .img3{
+    position: absolute;
+    width: 60px;
+    right: 223px;
+    top: 176px;
+}
+.bannn .img4{
+    position: absolute;
+    width: 157px;
+    right: 17px;
+    top: 159px; 
+}
+
+.ban{
+    margin: 10px 0;
+    width:300px;
+    height: 250px;
+    background-color: #FECE2F;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+        }
+.ban .img1{
+        width: 50px;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        }
+.ba{
+    width: 300px;
+    height: 250px;
+    background-color: #053C63;
+    margin-top: 0 pt;
+    margin-left: 0pt;
+    position: relative;
+    padding-top: 10px;
+    }
+.ba h1{
+    color: white;
+    font-size: 42px;
+    font-weight: 700;
+    margin-left: 9px;
+    line-height: 34px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.ba h2{
+    color: white;
+    font-size: 21px;
+    font-weight: 700;
+    margin-left: -1px;
+    line-height: 18px;
+    font-weight: bold;
+    padding-left: 13px;
+    padding-top: 0px;
+}
+.ba .img1{
+    width: 50px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.ba .img2{
+    width: 38px;
+    position: absolute;
+    top: 225px;
+    left: 13px;
+} 
+.ba .img3{
+    width: 52px;
+    position: absolute;
+    top: 229px;
+    left: 50px;
+    
+}
+.ba .img4{
+    position: absolute;
+    left: 150px;
+    top: 120px;
+    width: 200px;   
+}
+.chico{
+    margin: 10px 0;
+    width:300px;
+    height:50px;
+    background-color: #053C63;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.chico h1{
+    color: white;
+    font-size: 20px;
+    line-height: 11px;
+    margin-left: 30px;
+    
+} 
+.chico .img1{
+    width: 50px;
+    position: absolute;
+    right: 246px;
+    top: 7px;
+}      
+        
+.chic{
+    margin: 10px 0;
+    width:300px;
+    height:50px;
+    background-color: #053C63;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.chic h1{
+    color: white;
+    font-size: 15px;
+    line-height: 15px;
+    margin-left: 30px;
+    
+} 
+.chic .img1{
+    width: 50px;
+    position: absolute;
+    right: 246px;
+    top: 7px;
+}      
+.chic .img2{
+    width: 50px;
+    position: ABSOLUTE;
+    right: 67px;
+    top: 21px;
+}
+.chic .img3{
+    width: 50px;
+    position: ABSOLUTE;
+    right: 20px;
+    top: 30px;
+}
+
+.chi{
+    margin: 10px 0;
+    width:300px;
+    height:50px;
+    background-color:#FECE2F;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.chi h1{
+    color: white;
+    font-size: 20px;
+    line-height: 11px;
+    margin-left: 30px;
+    
+} 
+.chi .img1{
+    width: 50px;
+    position: absolute;
+    right: 246px;
+    top: 7px;
+}      
+.chi .img3{
+    width: 50px;
+    position: relative;
+    right: -151px;
+    top: 0px;
+}
+.chi{
+    margin: 10px 0;
+    width:300px;
+    height:50px;
+    background-color:#FECE2F;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.chi h1{
+    color: white;
+    font-size: 20px;
+    line-height: 11px;
+    margin-left: 30px;
+    
+} 
+.chi .img1{
+    width: 50px;
+    position: absolute;
+    right: 246px;
+    top: 7px;
+}      
+.chi .img3{
+    width: 50px;
+    position: relative;
+    right: -151px;
+    top: 0px;}
+
+.ch{
+    margin: 10px 0;
+    width:300px;
+    height:50px;
+    background-color:  #053C63;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.ch h1{
+    color: white;
+    font-size: 15px;
+    line-height: 0px;
+    margin-left: 30px; 
+} 
+.ch h2{
+    color: white;
+    font-size: 12px;
+    line-height: 11px;
+    margin-left: 30px; 
+} 
+.ch .img1{
+    width: 50px;
+    position: absolute;
+    right: 246px;
+    top: 7px;
+}      
+.ch .img4{
+    width: 50px;
+    position: absolute;
+    right: 6px;
+    top: 10px;
+}
